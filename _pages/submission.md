@@ -1,5 +1,5 @@
 ---
-title:     ByteMAL 2020 Submission Guidelines
+title:     ByteMAL 2024 Submission Guidelines
 permalink: /submission-guidelines
 layout:    default
 ---

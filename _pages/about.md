@@ -20,7 +20,7 @@ layout: default
     Participants will have the opportunity to be inspired by our interesting <a href="/bytemal-2024/program">keynote speakers</a>, 
     <a href="/bytemal-2024/submit">present their own work</a>, and <a href="/bytemal-2024/register">discuss</a> ideas, tools and approaches with each other.</p>
     <p style="text-align: center;">
-        <img src="images/institute_logos.png" alt="institute logos" style="height:450px;max-height:100%;width:auto;vertical-align:middle;">
+        <img src="/bytemal-2024/images/institute_logos.png" alt="institute logos" style="height:450px;max-height:100%;width:auto;vertical-align:middle;">
     </p>
   </div>
   

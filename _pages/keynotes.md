@@ -1,5 +1,5 @@
 ---
-title:     ByteMAL 2020 Keynotes
+title:     ByteMAL 2024 Keynotes
 permalink: /keynotes
 layout:    default
 ---
@@ -9,14 +9,14 @@ layout:    default
 <div class="card mb-3" style="max-width: 960px;">
   <div class="row no-gutters">
     <div class="col-md-4" style="display:flex;align-items:center;">
-      <img src="/bytemal-2020/images/ruud.jpg" class="card-img rounded-lg" alt="Ruud van Sloun">
+      <img src="/bytemal-2024/images/speaker1.jpg" class="card-img rounded-lg" alt="Speaker 1">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Ruud van Sloun</h5>
+        <h5 class="card-title">Speaker 1</h5>
         <p class="card-text font-weight-bold">Assistant Professor in Signal Processing Systems at TU Eindhoven</p>
         <p class="card-text">Ruud works on advanced and intelligent sensing and signal processing algorithms, with a special focus on artificial intelligence in diagnostic ultrasound imaging.</p>
-        <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#ruudModal">Read more</button>
+        <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#speaker1Modal">Read more</button>
         <button type="button" class="btn btn-outline-primary btn-sm"><a href="https://www.tue.nl/en/research/researchers/ruud-van-sloun/">Website</a></button>
       </div>
     </div>
@@ -26,14 +26,14 @@ layout:    default
 <div class="card mb-3" style="max-width: 960px;">
   <div class="row no-gutters">
     <div class="col-md-4" style="display:flex;align-items:center;">
-      <img src="/bytemal-2020/images/thomas.jpg" class="card-img rounded-lg" alt="Thomas Exner">
+      <img src="/bytemal-2024/images/speaker2.jpg" class="card-img rounded-lg" alt="Speaker 2">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Thomas Exner</h5>
+        <h5 class="card-title">Speaker 2</h5>
         <p class="card-text font-weight-bold">Chief Scientific Officer at Edelweiss Connect</p>
         <p class="card-text">Thomas is responsible for the scientific planning, execution and supervision of commercial projects in the area of data management and integrated testing strategy development for risk/safety assessment of chemicals, drugs and nano materials.</p>
-        <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#thomasModal">Read more</button>
+        <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#speaker2Modal">Read more</button>
         <button type="button" class="btn btn-outline-primary btn-sm"><a href="https://www.edelweissconnect.com/team-dc/thomas-exner">Website</a></button>
       </div>
     </div>
@@ -43,14 +43,14 @@ layout:    default
 <div class="card mb-3" style="max-width: 960px;">
   <div class="row no-gutters">
     <div class="col-md-4" style="display:flex;align-items:center;">
-      <img src="/bytemal-2020/images/isabelle.jpg" class="card-img rounded-lg" alt="Isabelle Laforest-Lapointe">
+      <img src="/bytemal-2024/images/speaker3.jpg" class="card-img rounded-lg" alt="Speaker 3">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Isabelle LaForest-LaPointe</h5>
+        <h5 class="card-title">Speaker 3</h5>
         <p class="card-text font-weight-bold">Assistant Professor in Applied Microbial Ecology at Sherbrooke University</p>
         <p class="card-text">Isabelle is a microbial ecologist using bioinformatics, statistics, and ecology to study host-microbe interactions on plants and in the human gut.</p>
-                <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#isabelleModal">Read more</button>
+                <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#speaker3Modal">Read more</button>
         <button type="button" class="btn btn-outline-primary btn-sm"><a href="https://isabellelaforestlapointe.wordpress.com/">Website</a></button>
       </div>
     </div>
@@ -59,12 +59,12 @@ layout:    default
 <br>
 
 
-<!-- Ruud's Modal -->
-<div class="modal fade" id="ruudModal" tabindex="-1" role="dialog" aria-labelledby="ruudModal" aria-hidden="true">
+<!-- Speaker 1 Modal -->
+<div class="modal fade" id="speaker1Modal" tabindex="-1" role="dialog" aria-labelledby="speaker1Modal" aria-hidden="true">
   <div class="modal-dialog .modal-dialog-scrollable .modal-dialog-centered modal-lg">
     <div class="modal-content p-4">
       <div class="modal-header">
-        <h4 class="modal-title" id="ruudModalLabel">Ruud van Sloun's abstract</h4>
+        <h4 class="modal-title" id="speaker1ModalLabel">Speaker 1 abstract</h4>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -84,11 +84,11 @@ Finally, Ruud will also discuss his recent work on COVID-19 in collaboration wit
 </div>
 
 <!-- Thomas' Modal -->
-<div class="modal fade" id="thomasModal" tabindex="-1" role="dialog" aria-labelledby="thomasModal" aria-hidden="true">
+<div class="modal fade" id="speaker2Modal" tabindex="-1" role="dialog" aria-labelledby="speaker2Modal" aria-hidden="true">
   <div class="modal-dialog .modal-dialog-scrollable .modal-dialog-centered modal-lg">
     <div class="modal-content p-4">
       <div class="modal-header">
-        <h4 class="modal-title" id="thomasModalLabel">Thomas Exner's abstract</h4>
+        <h4 class="modal-title" id="speaker2ModalLabel">Speaker 2 abstract</h4>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -107,11 +107,11 @@ Finally, Ruud will also discuss his recent work on COVID-19 in collaboration wit
 </div>
 
 <!-- Isabelle's Modal -->
-<div class="modal fade" id="isabelleModal" tabindex="-1" role="dialog" aria-labelledby="isabelleModal" aria-hidden="true">
+<div class="modal fade" id="speaker3Modal" tabindex="-1" role="dialog" aria-labelledby="speaker3Modal" aria-hidden="true">
   <div class="modal-dialog .modal-dialog-scrollable .modal-dialog-centered modal-lg">
     <div class="modal-content p-4">
       <div class="modal-header">
-        <h4 class="modal-title" id="isabelleModalLabel">Isabelle Laforest-Lapointe's abstract</h4>
+        <h4 class="modal-title" id="speaker3ModalLabel">Speaker 3 abstract</h4>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>

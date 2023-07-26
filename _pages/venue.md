@@ -4,12 +4,11 @@ permalink: /venue
 layout: default
 ---
 <h2>byteMAL venue</h2>
-<p>This year's conference will be held at Maastricht University</p>.
-<br>
-<p>Drielandenpunt (floor -1)</p>
-<p>Universiteitssingel 40</p>
-<p>6229 ER Maastricht</p>
-<p>The Netherlands</p>
+<p>This year's conference will be held at Maastricht University. <br>
+Drielandenpunt (floor -1)<br>
+Universiteitssingel 40<br>
+6229 ER Maastricht<br>
+The Netherlands</p>
 
 <div class="card-deck text-center">
   <div class="card">

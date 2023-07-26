@@ -4,6 +4,7 @@ permalink: /venue
 layout: default
 ---
 
+<h2> byteMAL venue </h2>
 <p> This year's conference will be held at Maastricht University.<br>
 Drielandenpunt (floor -1)<br>
 Universiteitssingel 40<br>
@@ -18,13 +19,13 @@ The Netherlands</p>
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/bytemal-2024/images/location.png" class="d-block w-100" alt="byteMAL location">
+      <img src="/bytemal-2024/images/location.jpg" class="d-block w-100" alt="byteMAL location">
     </div>
     <div class="carousel-item">
-       <img src="/bytemal-2024/images/location.png" class="d-block w-100" alt="byteMAL location">
+       <img src="/bytemal-2024/images/location.jpg" class="d-block w-100" alt="byteMAL location">
     </div>
     <div class="carousel-item">
-       <img src="/bytemal-2024/images/location.png" class="d-block w-100" alt="byteMAL location">
+       <img src="/bytemal-2024/images/location.jpg" class="d-block w-100" alt="byteMAL location">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

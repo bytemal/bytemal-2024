@@ -22,7 +22,7 @@ layout: default
 
   <br>
   <p style="text-align: center;">
-    <h2>Participating universities</h2>
+    <h2>Participating universities</h2> <br>
     </p>
     <p style="text-align: center;">
         <img src="/bytemal-2024/images/Institutions/UM_logo.png" alt="UM logo" style="height:100px;max-height:100%;width:auto;vertical-align:middle;">

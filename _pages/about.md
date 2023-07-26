@@ -20,20 +20,20 @@ layout: default
     Participants will have the opportunity to be inspired by our interesting <a href="/bytemal-2024/program">keynote speakers</a>, 
     <a href="/submit">present their own work</a>, and <a href="/bytemal-2024/register">discuss</a> ideas, tools and approaches with each other.</p>
 
-    <p style="text-align: center;">
-        <h3>Participating universities</h3>
+  <p style="text-align: center;">
+    <h3>Participating universities</h3>
     </p>
     <p style="text-align: center;">
-        <img src="/bytemal-2024/images/Institutions/UM_logo.png" alt="UM logo" style="height:450px;max-height:100%;width:auto;vertical-align:middle;">
+        <img src="/bytemal-2024/images/Institutions/UM_logo.png" alt="UM logo" style="height:50px;max-height:100%;width:auto;vertical-align:middle;">
     </p>
     <p style="text-align: center;">
-        <img src="/bytemal-2024/images/Institutions/RWTH_logo.png" alt="UM logo" style="height:450px;max-height:100%;width:auto;vertical-align:middle;">
+        <img src="/bytemal-2024/images/Institutions/RWTH_logo.png" alt="UM logo" style="height:50px;max-height:100%;width:auto;vertical-align:middle;">
     </p>
     <p style="text-align: center;">
-        <img src="/bytemal-2024/images/Institutions/UL_logo.png" alt="UM logo" style="height:450px;max-height:100%;width:auto;vertical-align:middle;">
+        <img src="/bytemal-2024/images/Institutions/UL_logo.png" alt="UM logo" style="height:50px;max-height:100%;width:auto;vertical-align:middle;">
     </p>
     <p style="text-align: center;">
-        <img src="/bytemal-2024/images/Institutions/KUL_logo.png" alt="UM logo" style="height:450px;max-height:100%;width:auto;vertical-align:middle;">
+        <img src="/bytemal-2024/images/Institutions/KUL_logo.png" alt="UM logo" style="height:50px;max-height:100%;width:auto;vertical-align:middle;">
     </p>
   </div>
   

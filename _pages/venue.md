@@ -3,7 +3,7 @@ title: "byteMAL venue"
 permalink: /venue
 layout: default
 ---
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 100%;">
   <img src="/bytemal-2024/images/Icons/announcement-icon.jpg" class="card-img-top" alt="UNS40">
   <div class="card-body">
     <h2 class="card-title">byteMAL venue</h2>

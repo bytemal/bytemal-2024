@@ -37,7 +37,7 @@ The Netherlands</p>
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-  
+  <br>
 <div class="card-deck text-center">
   <div class="card">
     <img src="/bytemal-2024/images/Icons/bus-icon.png" class="card-img-top px-4 py-1" alt="bus-icon">

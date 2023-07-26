@@ -21,19 +21,19 @@ layout: default
     <a href="/submit">present their own work</a>, and <a href="/bytemal-2024/register">discuss</a> ideas, tools and approaches with each other.</p>
 
   <br>
-  <p style="text-align: left;">
+  <p style="text-align: center;">
     <h2>Participating universities</h2>
     </p>
-    <p style="text-align: left;">
+    <p style="text-align: center;">
         <img src="/bytemal-2024/images/Institutions/UM_logo.png" alt="UM logo" style="height:100px;max-height:100%;width:auto;vertical-align:middle;">
     </p>
-    <p style="text-align: left;">
+    <p style="text-align: center;">
         <img src="/bytemal-2024/images/Institutions/RWTH_logo.png" alt="UM logo" style="height:100px;max-height:100%;width:auto;vertical-align:middle;">
     </p>
-    <p style="text-align: left;">
+    <p style="text-align: center;">
         <img src="/bytemal-2024/images/Institutions/UL_logo.png" alt="UM logo" style="height:100px;max-height:100%;width:auto;vertical-align:middle;">
     </p>
-    <p style="text-align: left;">
+    <p style="text-align: center;">
         <img src="/bytemal-2024/images/Institutions/KUL_logo.png" alt="UM logo" style="height:100px;max-height:100%;width:auto;vertical-align:middle;">
     </p>
   </div>

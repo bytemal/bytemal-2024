@@ -4,7 +4,7 @@ permalink: /venue
 layout: default
 ---
 <div class="card" style="width: 100%;">
-  <img src="/bytemal-2024/images/location.jpg" class="card-img-top" alt="UNS40">
+  <img src="/bytemal-2024/images/location.jpg" class="card-img-top" alt="UNS40" style="height:100px;max-height:100%;width:auto;vertical-align:middle;">
   <div class="card-body">
     <h2 class="card-title">byteMAL venue</h2>
         <p class="card-text"> This year's conference will be held at Maastricht University.<br>

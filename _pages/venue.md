@@ -22,10 +22,10 @@ The Netherlands</p>
       <img src="/bytemal-2024/images/location.jpg" class="d-block w-100" alt="byteMAL location">
     </div>
     <div class="carousel-item">
-       <img src="/bytemal-2024/images/location.jpg" class="d-block w-100" alt="byteMAL location">
+       <img src="/bytemal-2024/images/location2.jpg" class="d-block w-100" alt="byteMAL location">
     </div>
     <div class="carousel-item">
-       <img src="/bytemal-2024/images/location.jpg" class="d-block w-100" alt="byteMAL location">
+       <img src="/bytemal-2024/images/location3.jpg" class="d-block w-100" alt="byteMAL location">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

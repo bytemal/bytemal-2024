@@ -62,3 +62,11 @@ td{ padding: 10px; }
     margin-bottom: 20px;
   }
 }
+
+/* page header */
+.page-header {
+  width: 100%;
+  background-color: $blue-500;
+  background-repeat: no-repeat;
+  background-position: center center;
+}

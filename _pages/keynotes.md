@@ -9,7 +9,7 @@ layout:    default
 <div class="card mb-3" style="max-width: 960px;">
   <div class="row no-gutters">
     <div class="col-md-4" style="display:flex;align-items:center;">
-      <img src="/bytemal-2024/images/speaker1.jpg" class="card-img rounded-lg" alt="Speaker 1">
+      <img src="/bytemal-2024/images/Speakers/speaker1.jpg" class="card-img rounded-lg" alt="Speaker 1">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -26,7 +26,7 @@ layout:    default
 <div class="card mb-3" style="max-width: 960px;">
   <div class="row no-gutters">
     <div class="col-md-4" style="display:flex;align-items:center;">
-      <img src="/bytemal-2024/images/speaker2.jpg" class="card-img rounded-lg" alt="Speaker 2">
+      <img src="/bytemal-2024/images/Speakers/speaker2.jpg" class="card-img rounded-lg" alt="Speaker 2">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -43,7 +43,7 @@ layout:    default
 <div class="card mb-3" style="max-width: 960px;">
   <div class="row no-gutters">
     <div class="col-md-4" style="display:flex;align-items:center;">
-      <img src="/bytemal-2024/images/speaker3.jpg" class="card-img rounded-lg" alt="Speaker 3">
+      <img src="/bytemal-2024/images/Speakers/speaker3.jpg" class="card-img rounded-lg" alt="Speaker 3">
     </div>
     <div class="col-md-8">
       <div class="card-body">

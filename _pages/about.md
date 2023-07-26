@@ -6,7 +6,7 @@ layout: default
 
 <div class="row">
   <div class="col-sm-8 px-3" style="text-align: justify">
-    <h2 id="about-the-bytemal-conference">About the byteMAL conference</h2>
+    <h2 id="about-the-bytemal-conference">About byteMAL</h2>
     <p><strong>ByteMAL</strong> is a conference created by and for early-career researchers in the fields of bioinformatics and systems biomedicine, 
     and aims to provide a networking platform for knowledge and expertise exchange across borders. 
     All are welcome to <a href="/bytemal-2024/register">attend</a> and <a href="/bytemal-2024/submit">present</a> at
@@ -22,7 +22,7 @@ layout: default
 
   <br>
   <p style="text-align: center;">
-    <h4>Participating universities</h4>
+    <h2>Participating universities</h2>
     </p>
     <p style="text-align: center;">
         <img src="/bytemal-2024/images/Institutions/UM_logo.png" alt="UM logo" style="height:100px;max-height:100%;width:auto;vertical-align:middle;">

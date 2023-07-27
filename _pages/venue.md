@@ -4,9 +4,9 @@ permalink: /venue
 layout: default
 carousels:
   - images: 
-    - image: /images/location/location.jpg
-    - image: /images/location/location2.jpg
-    - image: /images/location/location3.jpg
+    - image: /bytemal-2024/images/location/location.jpg
+    - image: /bytemal-2024/images/location/location2.jpg
+    - image: /bytemal-2024/images/location/location3.jpg
 ---
 
 <h2> byteMAL venue </h2>

@@ -1,9 +1,3 @@
 markdown: kramdown
 
 include: ['_pages']
-
-carousels:
-  - images: 
-    - image: /bytemal-2024/images/location.jpg
-    - image: /bytemal-2024/images/location2.jpg
-    - image: /bytemal-2024/images/location3.jpg

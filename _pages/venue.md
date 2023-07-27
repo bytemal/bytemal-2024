@@ -2,6 +2,10 @@
 title: "byteMAL venue"
 permalink: /venue
 layout: default
+gallery_a:
+  - images/location.jpg
+  - images/location2.jpg
+  - images/location3.jpg
 ---
 
 <h2> byteMAL venue </h2>
@@ -11,7 +15,7 @@ Universiteitssingel 40<br>
 6229 ER Maastricht<br>
 The Netherlands</p>
 
-  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+  {% include carousel.html height="50" unit="%" duration="7" my_images=gallery_a %}
   <br>
 <div class="card-deck text-center">
   <div class="card">

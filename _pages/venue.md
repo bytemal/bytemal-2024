@@ -12,7 +12,7 @@ carousels:
   <div class="col-sm-12 px-3">
 	  <div class="jumbotron p-5" style="text-align: left">
 		  <h2><b>byteMAL venue</b></h2>
-		  <p style = "fontsize:20px"> This year's conference will be held at Maastricht University:<br>
+		  <p style = "font-size:20px"> This year's conference will be held at Maastricht University:
 		  <ul>
 			  <li>Aachenzaal (floor -1)</li>
 			  <li>Universiteitssingel 40</li>
@@ -20,30 +20,37 @@ carousels:
 			  <li>The Netherlands</li>
 		  </ul>
 	          </p>
+		  <br>
 		  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 	  </div>
 	  
-    <br>
 <div class="card-deck text-center">
   <div class="card">
     <img src="/bytemal-2024/images/Icons/bus-icon.png" class="card-img-top px-4 py-1" alt="bus-icon">
     <div class="card-body">
       <h5 class="card-title">Bus</h5>
-      <p class="card-text"> Maastricht, MUMC; Maastricht, Forum MECC; Maastricht, Station Randwyck</p>
+      <p class="card-text" style = "text-align: justify"> From the following bus stops it is a less than 5 minutes walk to the venue:
+	      <ul>
+		      <li>Maastricht, MUMC</li>
+		      <li>Maastricht, Forum MECC</li>
+		      <li>Maastricht, Station Randwyck</li>
+		      
+	      </ul>
+       </p>
     </div>
   </div>
   <div class="card">
     <img src="/bytemal-2024/images/Icons/train-icon.png" class="card-img-top px-4 py-1" alt="train-icon">
     <div class="card-body">
       <h5 class="card-title">Train</h5>
-      <p class="card-text"> Maastricht Randwyck</p>
+      <p class="card-text" style = "text-align: justify"> From the <b>station Maastricht Randwyck</b> it is a short walk to the venue</p>
     </div>
   </div>
   <div class="card">
     <img src="/bytemal-2024/images/Icons/car-icon.png" class="card-img-top px-4 py-1" alt="car-icon">
     <div class="card-body">
       <h5 class="card-title">Car</h5>
-      <p class="card-text">You can park your car for free at <a href="[/bytemal-2024/register](https://www.maastrichtbereikbaar.nl/en/info-for-travellers/car/parking-in-maastricht/free-parking-at-pr-noord/)">Maastricht Noord P&R</a> from which you can take the bus (bus 10 to Maastricht, Forum MECC) or train (stoptrein to Maastricht Randwyck) to the venue.</p>
+      <p class="card-text" style = "text-align: justify">You can park your car for free at <a href="https://www.maastrichtbereikbaar.nl/en/info-for-travellers/car/parking-in-maastricht/free-parking-at-pr-noord/">Maastricht Noord P&R</a> from which you can take the bus (bus 10 to Maastricht, Forum MECC) or train (stoptrein to Maastricht Randwyck) to the venue.</p>
     </div>
   </div>
 </div>

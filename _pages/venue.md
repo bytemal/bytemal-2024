@@ -9,12 +9,17 @@ carousels:
     - image: /bytemal-2024/images/location/location3.jpg
 ---
 
-<h2> byteMAL venue </h2>
-<p> This year's conference will be held at Maastricht University.<br>
-Drielandenpunt (floor -1)<br>
-Universiteitssingel 40<br>
-6229 ER Maastricht<br>
-The Netherlands</p>
+  <div class="col-sm-8 px-3" style = "height=100%">
+	  <div class="jumbotron p-5" style="text-align: center">
+		 <h2> byteMAL venue </h2>
+      <p> This year's conference will be held at Maastricht University.<br>
+        Drielandenpunt (floor -1)<br>
+        Universiteitssingel 40<br>
+        6229 ER Maastricht<br>
+        The Netherlands</p>
+	  </div>
+  </div>
+
 
     {% include carousel.html height="50" unit="%" duration="7" number="1" %}
   <br>

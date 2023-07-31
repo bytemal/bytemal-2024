@@ -4,7 +4,8 @@ permalink: /program
 layout:    default
 ---
 
-## byteMAL 2024 schedule 
+<h2><b>byteMAL 2024 schedule</b></h2> 
+<p style = "font-size:20">Date: Wednesday April 24, 2024</p>
 
 | Time (*CEST*) | Description |
 | :-----------: | :---------: |

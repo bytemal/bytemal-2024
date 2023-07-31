@@ -11,12 +11,14 @@ carousels:
 
   <div class="col-sm-12 px-3" style = "height=100%">
 	  <div class="jumbotron p-5" style="text-align: left">
-		 <h2> byteMAL venue </h2>
-      <p> This year's conference will be held at Maastricht University.<br>
-        Drielandenpunt (floor -1)<br>
-        Universiteitssingel 40<br>
-        6229 ER Maastricht<br>
-        The Netherlands</p>
+		 <h2><b>byteMAL venue</b>b></h2>
+      <p style = "fontsize:20px"> This year's conference will be held at Maastricht University:<br>
+		  <ul>
+			  <li>Drielandenpunt (floor -1)</li>
+			  <li>Universiteitssingel 40</li>
+			  <li>6229 ER Maastricht</li>
+			  <li>The Netherlands</li>
+		  </ul>
 	  </div>
   </div>
 

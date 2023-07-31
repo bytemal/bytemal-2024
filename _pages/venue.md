@@ -9,22 +9,21 @@ carousels:
     - image: /bytemal-2024/images/location/location3.jpg
 ---
 
-  <div class="col-sm-12 px-3" style = "height=100%">
+  <div class="col-sm-12 px-3">
 	  <div class="jumbotron p-5" style="text-align: left">
-		 <h2><b>byteMAL venue</b>b></h2>
-      <p style = "fontsize:20px"> This year's conference will be held at Maastricht University:<br>
+		  <h2><b>byteMAL venue</b></h2>
+		  <p style = "fontsize:20px"> This year's conference will be held at Maastricht University:<br>
 		  <ul>
-			  <li>Drielandenpunt (floor -1)</li>
+			  <li>Aachenzaal (floor -1)</li>
 			  <li>Universiteitssingel 40</li>
 			  <li>6229 ER Maastricht</li>
 			  <li>The Netherlands</li>
 		  </ul>
+	          </p>
+		  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 	  </div>
-  </div>
-
-
-    {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-  <br>
+	  
+    <br>
 <div class="card-deck text-center">
   <div class="card">
     <img src="/bytemal-2024/images/Icons/bus-icon.png" class="card-img-top px-4 py-1" alt="bus-icon">

@@ -9,8 +9,8 @@ carousels:
     - image: /bytemal-2024/images/location/location3.jpg
 ---
 
-  <div class="col-sm-8 px-3" style = "height=100%">
-	  <div class="jumbotron p-5" style="text-align: center">
+  <div class="col-sm-12 px-3" style = "height=100%">
+	  <div class="jumbotron p-5" style="text-align: left">
 		 <h2> byteMAL venue </h2>
       <p> This year's conference will be held at Maastricht University.<br>
         Drielandenpunt (floor -1)<br>

@@ -9,16 +9,21 @@ layout: default
     <h2 id="about-the-bytemal-conference">About byteMAL</h2>
     <p><strong>ByteMAL</strong> is a conference created by and for early-career researchers in the fields of bioinformatics and systems biomedicine, 
     and aims to provide a networking platform for knowledge and expertise exchange across borders. 
-    All are welcome to <a href="/bytemal-2024/register">attend</a> and <a href="/bytemal-2024/submit">present</a> at
+    All are welcome to <a href="/bytemal-2024/register">attend and present</a> at
     byteMAL, but especially PhD candidates, post-docs, and students (master’s and bachelor’s).</p>
-    <p>We aim to vitalize communication amongst researchers from the Netherlands, Belgium and Germany. 
-    ByteMAL has been hosted alternately by the Universities of Maastricht, Aachen and
-    Liege and for this <a href="/bytemal-2024/program">7th anniversary event</a>, 
-    the organisation of byteMAL returns to <a href="/bytemal-2024/venue">Maastricht</a>!</p>
+    <p>We aim to vitalize communication amongst researchers from the Netherlands, Belgium, and Germany. 
+    ByteMAL has been hosted alternately by the Universities of Maastricht, Aachen, and
+    Liege and for this 7th anniversary event on <a href="/bytemal-2024/program">April 24</a>, byteMAL returns to <a href="/bytemal-2024/venue">Maastricht</a>!</p>
     <p>As researchers in related fields in neighboring regions we are excited to widen our perspectives by creating the opportunity to discuss methods, 
     tools, challenges and successes with people of similar mindset. 
-    Participants will have the opportunity to be inspired by our interesting <a href="/bytemal-2024/program">keynote speakers</a>, 
-    <a href="/submit">present their own work</a>, and <a href="/bytemal-2024/register">discuss</a> ideas, tools and approaches with each other.</p>
+    Participants will have the opportunity to be inspired by our interesting <a href="/bytemal-2024/keynotes">keynote speakers</a>, 
+    present their own work, and discuss ideas, tools and approaches with each other.</p>
+
+  <br>
+  <p style="text-align: justify">
+    <h2>Contact</h2>
+    If you have any questions, feel free to contact us via e-mail: byteMALevents@gmail.com
+  </p>
 
   <br>
   <p style="text-align: center;">

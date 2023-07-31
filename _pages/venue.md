@@ -10,9 +10,9 @@ carousels:
 ---
 
   <div class="col-sm-12 px-3">
-	  <div class="jumbotron p-5" style="text-align: left">
+	  <div class="jumbotron p-5" style="text-align:left; font-size:20px">
 		  <h2><b>byteMAL venue</b></h2>
-		  <p style = "font-size:20px"> This year's conference will be held at Maastricht University:
+		  <p> This year's conference will be held at Maastricht University:
 		  <ul>
 			  <li>Aachenzaal (floor -1)</li>
 			  <li>Universiteitssingel 40</li>
@@ -30,7 +30,7 @@ carousels:
     <div class="card-body">
       <h5 class="card-title">Bus</h5>
       <p class="card-text" style = "text-align: justify"> From the following bus stops it is a less than 5 minutes walk to the venue:
-	      <ul>
+	      <ul style = "text-align: left">
 		      <li>Maastricht, MUMC</li>
 		      <li>Maastricht, Forum MECC</li>
 		      <li>Maastricht, Station Randwyck</li>

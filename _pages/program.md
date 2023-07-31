@@ -5,7 +5,7 @@ layout:    default
 ---
 
 <h2><b>byteMAL 2024 schedule</b></h2> 
-<p style = "font-size:20">Date: Wednesday April 24, 2024</p>
+<p style = "font-size:20px"><b>Date:</b> Wednesday April 24, 2024</p>
 
 | Time (*CEST*) | Description |
 | :-----------: | :---------: |

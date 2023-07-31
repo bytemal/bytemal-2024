@@ -10,8 +10,8 @@ carousels:
 ---
 
   <div class="col-sm-12 px-3">
-	  <div class="jumbotron p-5" style="text-align:left; font-size:16px">
-		  <h2><b>byteMAL venue</b></h2>
+	  <div class="jumbotron p-5" style="text-align:left; font-size:18px">
+		  <h2><b>The byteMAL venue</b></h2>
 		  <p> This year's conference will be held at Maastricht University:
 		  <ul>
 			  <li>Aachenzaal (floor -1)</li>
@@ -20,6 +20,7 @@ carousels:
 			  <li>The Netherlands</li>
 		  </ul>
 	          </p>
+		  <hr>
 		  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 	  </div>
 	  

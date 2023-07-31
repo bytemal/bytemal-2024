@@ -22,7 +22,7 @@ layout: default
   <br>
   <p style="text-align: justify">
     <h2>Contact</h2>
-    If you have any questions, feel free to contact us via e-mail: byteMALevents@gmail.com
+    If you have any questions, feel free to contact us via e-mail: <a href = "mailto:byteMALevents@gmail.com">byteMALevents@gmail.com</a>
   </p>
 
   <br>

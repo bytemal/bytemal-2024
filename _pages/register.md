@@ -6,7 +6,7 @@ layout:    default
 
 <div class="jumbotron p-5" style="text-align: left">
   <h2><b>Registration</b></h2>
-  <p style = "font-size: 20px">Please follow the link below to register for byteMAL 2024. Here you can select whether you would like to register as an attendee or whether you also like to do a poster and/or a flashtalk presentation. Please note that if you register for a poster or a flashtalk presentation, you will be asked to submit an abstract (see <a href="/bytemal-2024/submit"> abstract guidelines</a>). </p>
+  <p style = "font-size: 20px">Please click on the button below to <b>register for byteMAL 2024</b>. Here you can select whether you would like to register as an attendee or whether you would also like to do a poster and/or a flashtalk presentation. Please note that if you register for a poster or a flashtalk presentation, you will be asked to submit an abstract (see <a href="/bytemal-2024/submit"> abstract guidelines</a>). </p>
 <a class="btn btn-primary btn-lg my-3" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" role="button">Register here</a>
 </div>
 

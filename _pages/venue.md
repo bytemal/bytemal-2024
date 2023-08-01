@@ -43,7 +43,7 @@ carousels:
     <img src="/bytemal-2024/images/Icons/train-icon.png" class="card-img-top px-4 py-1" alt="train-icon">
     <div class="card-body">
       <h5 class="card-title">Train</h5>
-      <p class="card-text" style = "text-align: justify"> From the <b>station Maastricht Randwyck</b> it is a short walk to the venue</p>
+      <p class="card-text" style = "text-align: justify"> From the <b>station Maastricht Randwyck</b> it is a short walk to the venue.</p>
     </div>
   </div>
   <div class="card">

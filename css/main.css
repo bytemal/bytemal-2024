@@ -6,7 +6,7 @@ h1, h3, h4 { color: #133346; }
 
 .respcolor a:link {color: #0088CC}
 .respcolor a:active {color: #F9664D}
-.respcolor a:link {color: #F9664D}
+.respcolor a:hover {color: #F9664D}
 
 /* keynote horizontal card pics */
 .card-img{

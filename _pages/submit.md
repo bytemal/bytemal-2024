@@ -16,18 +16,18 @@ layout:    default
 
 <div class="row">
 	  <div class="col-sm-6 px-3">
-	  <div class="jumbotron p-5 bg-light text-dark h-100" style="text-align: justify">
+	  <div class="jumbotron p-5 bg-info text-dark h-100" style="text-align: left">
 		  <p style="font-size: 30px"><b>Abstract guidelines</b></p>
 		  <p style="font-size: 18px">- Include title, authors, and the abstract <br>
-			  - Maximally 300 words (exluding the title and authors)
+			  - Maximally 300 words (excluding the title and authors)
 		  </p>
 	  </div>
   </div>
 	
-  <div class="col-sm-6 px-3"">
-	  <div class="jumbotron p-5 bg-dark text-white h-100" style="text-align: justify">
-		  <p style="font-size: 30px">
-		  <p style="font-size: 18px"><b>Poster guidelines</b></p>
+  <div class="col-sm-6 px-3">
+	  <div class="jumbotron p-5 bg-dark text-white h-100" style="text-align: left">
+		  <p style="font-size: 30px"><b>Poster guidelines</b></p>
+		  <p style="font-size: 18px">
 		  - Portrait format <br>
 		  - A1 size (or similar)
 	  </p> <br>

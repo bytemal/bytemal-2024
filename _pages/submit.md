@@ -35,10 +35,8 @@ layout:    default
 	  </p> <br>
 	  </div>
   </div>
-</div>
-
-<div class="row">
-	  <div class="col-sm-4 px-3">
+  
+  <div class="col-sm-4 px-3">
 	  <div class="jumbotron p-5 bg-secondary text-white h-100" style="text-align: left">
 		  <p style="font-size: 30px"><b>Presentation guidelines</b></p>
 		  <p style="font-size: 18px">

@@ -1,6 +1,6 @@
 ---
 title:     ByteMAL 2024 Keynotes
-permalink: /keynotes
+permalink: /speakers
 layout:    default
 ---
 
@@ -84,7 +84,8 @@ layout:    default
     </div>
   </div>
 </div>
-
+<br>
+<br>
 <h2 class="mb-4"><b>Panel members</b></h2>
 <p> Our discussion panel consists of our keynote speakers as well as two additional panel members, covering the worlds of both academia and industry. </p>
 <div class="card mb-3" style="max-width: 960px;">

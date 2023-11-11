@@ -14,9 +14,9 @@ carousels:
 		  <h2><b>The byteMAL venue</b></h2>
 		  <p> This year's conference will be held at Maastricht University:
 		  <ul>
-			  <li>Aachenzaal (floor -1)</li>
-			  <li>Universiteitssingel 40</li>
-			  <li>6229 ER Maastricht</li>
+			  <li>B0.001</li>
+			  <li>Paul Henri Spaaklaan 1</li>
+			  <li>6229 EN Maastricht</li>
 			  <li>The Netherlands</li>
 		  </ul>
 	          </p>

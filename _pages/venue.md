@@ -4,9 +4,9 @@ permalink: /venue
 layout: default
 carousels:
   - images: 
-    - image: /bytemal-2024/images/location/location.jpg
-    - image: /bytemal-2024/images/location/location2.jpg
     - image: /bytemal-2024/images/location/location3.jpg
+    - image: /bytemal-2024/images/location/location2.jpg
+    - image: /bytemal-2024/images/location/location.jpg
 ---
 
   <div class="col-sm-12 px-3">

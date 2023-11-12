@@ -31,7 +31,7 @@ carousels:
       <h5 class="card-title">Bus</h5>
       <p class="card-text" style = "text-align: justify"> From the following bus stops it is a less than 5 minutes walk to the venue:
 	      <ul style = "text-align: left">
-		      <li>Maastricht, MUMC</li>
+		      <li>Maastricht, Endepolsdomein</li>
 		      <li>Maastricht, Forum MECC</li>
 		      <li>Maastricht, Station Randwyck</li>
 		      

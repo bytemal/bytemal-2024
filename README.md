@@ -1,6 +1,6 @@
-<p align="center" style="font-size:50px; ">
+<h3 align="center" style="font-size:50px; ">
 Looking for the official byteMAL 2024 website?
-</p>
+</h3>
 <h1 align="center">
 Click <a href="https://bytemal.github.io/bytemal-2024/">here</a>!
 </h1>

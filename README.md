@@ -1,4 +1,4 @@
-<h3 align="center" style="font-size:50px; ">
+<h3 align="center">
 Looking for the official byteMAL 2024 website?
 </h3>
 <h1 align="center">

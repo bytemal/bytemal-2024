@@ -2,6 +2,7 @@
 title: "Registration error"
 permalink: /RegistrationError
 layout: default
+sitemap: false
 carousels:
   - images: 
     - image: /bytemal-2024/images/location/location.jpg

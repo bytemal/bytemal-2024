@@ -17,7 +17,6 @@ layout:    default
         <p class="card-text font-weight-bold">Senior Scientist en Programme Leader Digital Health at TNO</p>
         <p class="card-text">Jildau Bouwman has been part of TNO since 2008, contributing to the systems biology team. Her focus encompasses (omics) data analysis and data management. 
         In addition, she is one of the developers of the FAIR principles.</p>
-        <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#speaker1Modal">Read more</button>
         <button type="button" class="btn btn-outline-primary btn-sm"><a href="https://www.tno.nl/en/about-tno/our-people/jildau-bouwman/">Website</a></button>
       </div>
     </div>

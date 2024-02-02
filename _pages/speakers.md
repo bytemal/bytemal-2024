@@ -15,7 +15,7 @@ layout:    default
       <div class="card-body">
         <h5 class="card-title">Jildau Bouwman</h5>
         <p class="card-text font-weight-bold">Senior Scientist en Programme Leader Digital Health at TNO</p>
-        <p class="card-text">Jildau Bouwman has been part of TNO since 2008, contributing to the systems biology team. Her focus encompasses (omics) data analysis and data management. 
+        <p class="card-text">Jildau Bouwman has been part of Netherlands Organisation for Applied Scientific Research (TNO) since 2008, contributing to the systems biology team. Her focus encompasses (omics) data analysis and data management. 
         In addition, she is one of the developers of the FAIR principles.</p>
         <button type="button" class="btn btn-outline-primary btn-sm"><a href="https://www.tno.nl/en/about-tno/our-people/jildau-bouwman/">Website</a></button>
       </div>
@@ -30,11 +30,12 @@ layout:    default
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Speaker 2</h5>
-        <p class="card-text font-weight-bold">Title and affiliation of speaker 2</p>
-        <p class="card-text">Description of the speaker's work.</p>
-        <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#speaker2Modal">Read more</button>
-        <button type="button" class="btn btn-outline-primary btn-sm"><a href="linktowebsite">Website</a></button>
+        <h5 class="card-title">Patrick Aloy</h5>
+        <p class="card-text font-weight-bold">ICREA Research Professor and Principal Investigator at IRB Barcelona</p>
+        <p class="card-text">Patrick Aloy is an ICREA Research Professor and Principal Investigator of the Structural Bioinformatics
+and Network Biology lab at the Institute for Research in Biomedicine (IRB Barcelona). His lab aims at combining molecular, cell, and computational biology to unveil 
+physio-pathological pathway dynamics and understand how the biological system transforms from a healthy to diseased state.</p>
+        <button type="button" class="btn btn-outline-primary btn-sm"><a href="https://www.irbbarcelona.org/en/research/patrick-aloy">Website</a></button>
       </div>
     </div>
   </div>
